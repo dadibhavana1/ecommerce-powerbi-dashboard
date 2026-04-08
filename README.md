@@ -11,3 +11,4 @@ These datasets are connected using common keys like:
 - customer_id
 - order_id
 - product_id
+Note: Power BI (.pbix) file is not uploaded due to file size limits.
